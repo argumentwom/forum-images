@@ -1,6 +1,40 @@
 # forum-images
 keep forum images
 
+### can I use github just to keep images I post in forums 🤔
+Yes, you can use GitHub to host images for forums, and it is actually a very popular method for doing so.
+GitHub provides reliable, fast, and free hosting, and your images won't randomly disappear like they sometimes do on dedicated image-hosting sites.
+Here are the three best ways to do this, ranked from easiest to most robust:
+## 1. The "Issue Draft" Method (Easiest)
+You don't even need to create a repository for this.
+
+* Go to any repository (even your own profile repository) and open a New Issue.
+* Drag and drop your image into the text box.
+* GitHub will automatically upload the image and generate a markdown link that looks like this: https://github.com...
+* Copy that URL and paste it into your forum. You can safely close the issue page without saving it; the image link will remain active forever.
+
+## 2. GitHub Pages (Best for organizing)
+If you want to keep your images organized in folders and have clean URLs:
+
+* Create a public repository (e.g., named forum-images).
+* Enable GitHub Pages in the repository settings.
+* Upload your images into the repository.
+* Your image links will look clean and professional: https://github.io.
+
+## 3. Direct Repository Links
+
+* Upload an image to a public repository.
+* Click on the image file, then click the Download or Raw button.
+* Copy that URL to use in your forum posts.
+
+⚠️ Important Rules to Keep in Mind:
+
+* Publicity: The repository where you host the images must be public, or the forum users won't be able to see them.
+* Terms of Service: GitHub allows this, but they do not want people using repositories as a commercial Content Delivery Network (CDN) or hosting copyrighted/explicit material. For standard forum posts, you will be completely fine.
+* File Size: Keep individual images under 100 MB (though for forums, you should ideally compress them to under 2-3 MB so they load quickly for other users).
+
+Would you like a step-by-step walkthrough on how to set up a GitHub Pages repository for your images, or do you need help converting the links into the specific format (like BBCode or HTML) your forum uses?
+
 ### ..ok gemini, got me a GitHub account. So just make a new repository named `forum-images` ?
 #
 Yes, exactly! Making a new repository named forum-images is the perfect way to start.
