@@ -1,6 +1,12 @@
 # forum-images
-keep forum images
+
+The code to automate the uploads is at [the forum](https://www.autoitscript.com/forum/topic/213874-solved-help-for-argumentum/#findComment-1555185) if you're curious on what I've done.
+If there is an image in the clipboard it'll show you that and ask you if that is what you want, else, 
+will ask you to choose a file, and ask you if that is what you want.
+![Screenshot](https://raw.githubusercontent.com/argumentwom/forum-images/main/forumImages/2026/10/snap_20261009_133316.png)
+Is a work in progress as am not familiar with GitHub
 #
+..ok, that chat with the AI:
 ### can I use github just to keep images I post in forums 🤔
 Yes, you can use GitHub to host images for forums, and it is actually a very popular method for doing so.
 GitHub provides reliable, fast, and free hosting, and your images won't randomly disappear like they sometimes do on dedicated image-hosting sites.
