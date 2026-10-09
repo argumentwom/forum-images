@@ -1,7 +1,7 @@
 # forum-images
 
 The code to automate the uploads is at [the forum](https://www.autoitscript.com/forum/topic/213874-solved-help-for-argumentum/#findComment-1555185) if you're curious on what I've done.<br>
-If there is an image in the clipboard it'll show you that and ask you if that is what you want, else, 
+If there is an image in the clipboard it'll show you that and ask you if that is what you want, else,<br>
 will ask you to choose a file, and ask you if that is what you want.
 ![Screenshot](https://raw.githubusercontent.com/argumentwom/forum-images/main/forumImages/2026/10/snap_20261009_133316.png)
 Is a work in progress as am not familiar with GitHub
